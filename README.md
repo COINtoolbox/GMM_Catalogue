@@ -16,4 +16,4 @@ It is constructed from the [SDSS DR12](http://www.sdss.org/dr12/) and the and is
 
 ## *Short tutorial for the use of GMM in Python*
 
-Created by Pierre-Yves and Madura Killedar
+Created by Pierre-Yves and Madura Killedar and available at [Python tutorial](https://github.com/COINtoolbox/GMM_Catalogue/blob/master/Tutorial/GMM_Python.ipynb)

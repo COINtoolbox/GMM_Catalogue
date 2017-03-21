@@ -12,7 +12,7 @@ The catalogue  is given bellow. Check the individual folders for detailed inform
 
 This catalogue was designed to provide soft/probabilistic classifications for galaxies based on their ionization source. The data consists of a combination of the BPT and WHAN diagrams. 
 
-It is constructed from the [SDSS DR12](http://www.sdss.org/dr12/) and the and is available in the following at  [Catalogue](http://linc.tw/). 
+It is constructed from the [SDSS DR12](http://www.sdss.org/dr12/) and the and is available in the following at  [Catalogue](https://github.com/COINtoolbox/GMM_Catalogue/blob/master/Catalogue/GMM_catalogue.csv). 
 
 ## *Short tutorial for the use of GMM in Python*
 

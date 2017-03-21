@@ -2,7 +2,7 @@
 
 | Column          | Description    |
 |-----------------|----------------|
-| mjd            | SDSS-DR7 modified jullian day for the spectroscopic observation|
+| mjd             | SDSS-DR7 modified jullian day for the spectroscopic observation|
 | plate           | SDSS-DR7 plate for the spectroscopic observation|
 | fiber_id        | SDSS-DR7 fiber indentification for the spectroscopic observation|
 | xx_BPT_WHAN     | BPT and WHAN x axis: log [NII]/H_alpha - output from STARLIGHT|

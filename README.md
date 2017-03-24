@@ -15,4 +15,4 @@ The probabilistic classification of galaxies via GMM  is constructed using data 
 
 ## *Short tutorial for the use of GMM in Python*
 
-Created by [Pierre-Yves](https://github.com/pylablanche) and [Madura Killedar](https://github.com/DrMud) and available at [GMM Python tutorial](https://github.com/COINtoolbox/GMM_Catalogue/blob/master/Tutorial/GMM_Python.ipynb)
+Created by [Pierre-Yves Lablanche](https://github.com/pylablanche) and [Madura Killedar](https://github.com/DrMud) and available at [GMM Python tutorial](https://github.com/COINtoolbox/GMM_Catalogue/blob/master/Tutorial/GMM_Python.ipynb)

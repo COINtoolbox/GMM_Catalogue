@@ -1,6 +1,12 @@
 # Galaxy Classification via Gaussian Mixture Models
 Catalogue with probabilistic classification of galaxies based on their ionization source using Gaussian Mixture Models <img  align="right" src="https://raw.githubusercontent.com/COINtoolbox/photoz_catalogues/master/images/coin.png" width="200">
 
+# A probabilistic approach to emission-line galaxy classification
+
+R. S. de Souza, M. L. L. Dantas, M. V. Costa-Duarte, E. D. Feigelson, M. Killedar, P.-Y. Lablanche, R. Vilalta, A. Krone-Martins, R. Beck, F. Gieseke
+
+[![arxiv](http://img.shields.io/badge/arXiv-1703.07607-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1703.07607)
+
 This is one of the products of the third edition of the [COIN Residence Program](http://iaacoin.wix.com/crp2016), which took place in August/2016 in Budapest (Hungary). 
 
 

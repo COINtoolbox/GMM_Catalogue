@@ -1,6 +1,6 @@
 # A probabilistic approach to emission-line galaxy classification
 
-[R. S. de Souza](https://github.com/RafaelSdeSouza),[M. L. L. Dantas](https://github.com/mdastro), M. V. Costa-Duarte, E. D. Feigelson, M. Killedar, P.-Y. Lablanche, R. Vilalta, A. Krone-Martins, R. Beck, F. Gieseke
+[R. S. de Souza](https://github.com/RafaelSdeSouza), [M. L. L. Dantas](https://github.com/mdastro), M. V. Costa-Duarte, E. D. Feigelson, M. Killedar, P.-Y. Lablanche, R. Vilalta, A. Krone-Martins, R. Beck, F. Gieseke
 
 [![arxiv](http://img.shields.io/badge/arXiv-1703.07607-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1703.07607)
 

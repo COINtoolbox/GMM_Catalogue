@@ -1,4 +1,4 @@
-# A probabilistic approach to emission-line galaxy classification
+# A probabilistic approach to emission-line galaxy classification <img  align="right" src="https://raw.githubusercontent.com/COINtoolbox/photoz_catalogues/master/images/coin.png" width="200">
 
 [R. S. de Souza](https://github.com/RafaelSdeSouza), [M. L. L. Dantas](https://github.com/mdastro), M. V. Costa-Duarte, E. D. Feigelson, M. Killedar, P.-Y. Lablanche, R. Vilalta, A. Krone-Martins, R. Beck, F. Gieseke
 
@@ -11,7 +11,7 @@ The catalogue  is given bellow. Check the individual folders for detailed inform
 
 ## *GMM Catalogue* 
 
-Catalogue with probabilistic classification of galaxies based on their ionization source using Gaussian Mixture Models <img  align="right" src="https://raw.githubusercontent.com/COINtoolbox/photoz_catalogues/master/images/coin.png" width="200">
+Catalogue with probabilistic classification of galaxies based on their ionization source using Gaussian Mixture Models 
 
 This catalogue was designed to provide soft/probabilistic classifications for galaxies based on their ionization source. The data consists of a combination of the BPT and WHAN diagrams. 
 

@@ -1,7 +1,7 @@
 # A probabilistic approach to emission-line galaxy classification <img  align="right" src="https://raw.githubusercontent.com/COINtoolbox/photoz_catalogues/master/images/coin.png" width="200">
 [![arxiv](http://img.shields.io/badge/arXiv-1703.07607-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1703.07607)
 
-[R. S. de Souza](https://github.com/RafaelSdeSouza), [M. L. L. Dantas](https://github.com/mdastro), M. V. Costa-Duarte, [E. D. Feigelson](https://github.com/efeigelson), [M. Killedar](https://github.com/DrMud), P.-Y. Lablanche, [R. Vilalta](https://github.com/astronomy-eagle), A. Krone-Martins, R. Beck, F. Gieseke
+[R. S. de Souza](https://github.com/RafaelSdeSouza), [M. L. L. Dantas](https://github.com/mdastro), M. V. Costa-Duarte, [E. D. Feigelson](https://github.com/efeigelson), [M. Killedar](https://github.com/DrMud), P.-Y. Lablanche, [R. Vilalta](https://github.com/astronomy-eagle), [A. Krone-Martins](https://github.com/algolkm), R. Beck, F. Gieseke
 
 
 
